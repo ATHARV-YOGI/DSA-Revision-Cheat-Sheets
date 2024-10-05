@@ -1,21 +1,26 @@
 # DSA-Revision-Cheat-Sheets
+<hr>
 
-**https://www.piratekingdom.com/leetcode/cheat-sheet**
+**Cheat Sheet**
+- [PirateKingdom](https://www.piratekingdom.com/leetcode/cheat-sheet)
 
+<hr>
 
-# Selected Questions
+**Selected Questions**
 
-https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+- [Leetcode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
-https://instabyte.io/p/interview-master-100
+- [Interview Master 100](https://instabyte.io/p/interview-master-100)
 
+<hr>
 
-# YT videos
+**YT videos**
 
-https://youtu.be/oz9cEqFynHU?si=iJyuaEAnCTXJyJuy
+- [Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU?si=iJyuaEAnCTXJyJuy)
 
+<hr>
 
-# Code Visualizer
+**Code Visualizer**
 
-https://pythontutor.com/visualize.html#mode=edit
+- [Python Tuter](https://pythontutor.com/visualize.html#mode=edit)
 
